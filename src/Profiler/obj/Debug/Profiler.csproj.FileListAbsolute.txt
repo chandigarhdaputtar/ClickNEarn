@@ -1,0 +1,6 @@
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Profiler\bin\Debug\Profiler.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Profiler\bin\Debug\Profiler.pdb
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Profiler\obj\Debug\Profiler.csprojResolveAssemblyReference.cache
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Profiler\obj\Debug\Profiler.csproj.CoreCompileInputs.cache
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Profiler\obj\Debug\Profiler.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Profiler\obj\Debug\Profiler.pdb

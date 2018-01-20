@@ -1,0 +1,6 @@
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Helpers\bin\Debug\Helpers.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Helpers\obj\Debug\Helpers.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Helpers\obj\Debug\Helpers.pdb
