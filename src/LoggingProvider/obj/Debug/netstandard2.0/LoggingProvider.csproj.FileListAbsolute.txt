@@ -1,0 +1,13 @@
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\bin\Debug\netstandard2.0\LoggingProvider.deps.json
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\bin\Debug\netstandard2.0\LoggingProvider.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\bin\Debug\netstandard2.0\LoggingProvider.pdb
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\bin\Debug\netstandard2.0\Constants.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\bin\Debug\netstandard2.0\Models.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\bin\Debug\netstandard2.0\Models.pdb
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\bin\Debug\netstandard2.0\Constants.pdb
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\obj\Debug\netstandard2.0\LoggingProvider.csprojResolveAssemblyReference.cache
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\obj\Debug\netstandard2.0\LoggingProvider.csproj.CoreCompileInputs.cache
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\obj\Debug\netstandard2.0\LoggingProvider.AssemblyInfoInputs.cache
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\obj\Debug\netstandard2.0\LoggingProvider.AssemblyInfo.cs
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\obj\Debug\netstandard2.0\LoggingProvider.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\LoggingProvider\obj\Debug\netstandard2.0\LoggingProvider.pdb

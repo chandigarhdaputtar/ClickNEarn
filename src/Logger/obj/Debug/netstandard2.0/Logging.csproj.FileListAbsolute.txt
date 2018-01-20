@@ -1,0 +1,9 @@
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\bin\Debug\netstandard2.0\Logging.deps.json
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\bin\Debug\netstandard2.0\Logging.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\bin\Debug\netstandard2.0\Logging.pdb
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\obj\Debug\netstandard2.0\Logging.csprojResolveAssemblyReference.cache
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\obj\Debug\netstandard2.0\Logging.csproj.CoreCompileInputs.cache
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\obj\Debug\netstandard2.0\Logging.AssemblyInfoInputs.cache
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\obj\Debug\netstandard2.0\Logging.AssemblyInfo.cs
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\obj\Debug\netstandard2.0\Logging.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\obj\Debug\netstandard2.0\Logging.pdb

@@ -1,0 +1,5 @@
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\AdvertisementProvider\bin\Debug\AdvertisementProvider.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\AdvertisementProvider\bin\Debug\AdvertisementProvider.pdb
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\AdvertisementProvider\obj\Debug\AdvertisementProvider.csproj.CoreCompileInputs.cache
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\AdvertisementProvider\obj\Debug\AdvertisementProvider.dll
+C:\Users\Shaantam Anand\source\repos\ClickNEarn\AdvertisementProvider\obj\Debug\AdvertisementProvider.pdb
