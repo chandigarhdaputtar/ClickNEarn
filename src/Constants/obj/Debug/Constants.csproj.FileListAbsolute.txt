@@ -3,3 +3,9 @@ C:\Users\Shaantam Anand\source\repos\ClickNEarn\Constants\bin\Debug\Constants.pd
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\Constants\obj\Debug\Constants.dll
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\Constants\obj\Debug\Constants.pdb
+D:\ClickNEarn\ClickNEarn\src\Constants\bin\Debug\Constants.dll
+D:\ClickNEarn\ClickNEarn\src\Constants\bin\Debug\Constants.pdb
+D:\ClickNEarn\ClickNEarn\src\Constants\obj\Debug\Constants.csprojResolveAssemblyReference.cache
+D:\ClickNEarn\ClickNEarn\src\Constants\obj\Debug\Constants.csproj.CoreCompileInputs.cache
+D:\ClickNEarn\ClickNEarn\src\Constants\obj\Debug\Constants.dll
+D:\ClickNEarn\ClickNEarn\src\Constants\obj\Debug\Constants.pdb

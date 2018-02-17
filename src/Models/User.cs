@@ -14,8 +14,8 @@ namespace Models
         public Personal PersonalInfo { get; set; }
         public Account AccountInfo { get; set; }
         public Fraud FraudInfo { get; set; }
-        public Money Money { get; set; }        
-        public int TotalPayouts { get; set; }        
+        public Money Money { get; set; }
+        public int TotalPayouts { get; set; }
         public AgeGroup AgeGroup { get; set; }
     }
 }

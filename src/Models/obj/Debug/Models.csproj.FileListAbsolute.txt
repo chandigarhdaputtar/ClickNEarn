@@ -16,3 +16,21 @@ C:\Users\Shaantam Anand\source\repos\ClickNEarn\Models\obj\Debug\Models.csprojRe
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\Models\obj\Debug\Models.dll
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\Models\obj\Debug\Models.pdb
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\Models.dll
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\Models.pdb
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\Constants.dll
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\DnsClient.dll
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\MongoDB.Bson.dll
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\MongoDB.Driver.Core.dll
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\MongoDB.Driver.dll
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\System.Buffers.dll
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\Constants.pdb
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\DnsClient.xml
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\MongoDB.Bson.xml
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\MongoDB.Driver.xml
+D:\ClickNEarn\ClickNEarn\src\Models\bin\Debug\MongoDB.Driver.Core.xml
+D:\ClickNEarn\ClickNEarn\src\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\ClickNEarn\ClickNEarn\src\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\ClickNEarn\ClickNEarn\src\Models\obj\Debug\Models.dll
+D:\ClickNEarn\ClickNEarn\src\Models\obj\Debug\Models.pdb

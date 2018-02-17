@@ -12,7 +12,8 @@ namespace Models
         public Name Name { get; set; }
         public string EmailId { get; set; }
         public int Age { get; set; }
-        public Gender gender { get; set; }        
+        public Gender gender { get; set; }
+        public DateTime JoinDate { get; set; }
         public string PhoneNumber { get; set; } //might be null in case of supplier
     }
 }

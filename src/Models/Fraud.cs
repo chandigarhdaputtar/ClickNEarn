@@ -11,5 +11,8 @@ namespace Models
     {
         public IPAddress IpAddress { get; set; }
         public string Host { get; set; }
+        public List<DateTime> PreviousLogins { get; set; }
+        public bool IsActive { get; set; }
+        public bool IsBanned { get; set; }
     }
 }

@@ -7,3 +7,12 @@ C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\obj\Debug\netstandard2.0\
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\obj\Debug\netstandard2.0\Logging.AssemblyInfo.cs
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\obj\Debug\netstandard2.0\Logging.dll
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\Logger\obj\Debug\netstandard2.0\Logging.pdb
+D:\ClickNEarn\ClickNEarn\src\Logger\bin\Debug\netstandard2.0\Logging.deps.json
+D:\ClickNEarn\ClickNEarn\src\Logger\bin\Debug\netstandard2.0\Logging.dll
+D:\ClickNEarn\ClickNEarn\src\Logger\bin\Debug\netstandard2.0\Logging.pdb
+D:\ClickNEarn\ClickNEarn\src\Logger\obj\Debug\netstandard2.0\Logging.csprojResolveAssemblyReference.cache
+D:\ClickNEarn\ClickNEarn\src\Logger\obj\Debug\netstandard2.0\Logging.csproj.CoreCompileInputs.cache
+D:\ClickNEarn\ClickNEarn\src\Logger\obj\Debug\netstandard2.0\Logging.AssemblyInfoInputs.cache
+D:\ClickNEarn\ClickNEarn\src\Logger\obj\Debug\netstandard2.0\Logging.AssemblyInfo.cs
+D:\ClickNEarn\ClickNEarn\src\Logger\obj\Debug\netstandard2.0\Logging.dll
+D:\ClickNEarn\ClickNEarn\src\Logger\obj\Debug\netstandard2.0\Logging.pdb
