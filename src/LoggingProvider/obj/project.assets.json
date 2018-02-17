@@ -4783,11 +4783,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shaantam Anand\\source\\repos\\ClickNEarn\\LoggingProvider\\LoggingProvider.csproj",
+      "projectUniqueName": "D:\\ClickNEarn\\ClickNEarn\\src\\LoggingProvider\\LoggingProvider.csproj",
       "projectName": "LoggingProvider",
-      "projectPath": "C:\\Users\\Shaantam Anand\\source\\repos\\ClickNEarn\\LoggingProvider\\LoggingProvider.csproj",
+      "projectPath": "D:\\ClickNEarn\\ClickNEarn\\src\\LoggingProvider\\LoggingProvider.csproj",
       "packagesPath": "C:\\Users\\Shaantam Anand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shaantam Anand\\source\\repos\\ClickNEarn\\LoggingProvider\\obj\\",
+      "outputPath": "D:\\ClickNEarn\\ClickNEarn\\src\\LoggingProvider\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -4808,8 +4808,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Shaantam Anand\\source\\repos\\ClickNEarn\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\Shaantam Anand\\source\\repos\\ClickNEarn\\Models\\Models.csproj"
+            "D:\\ClickNEarn\\ClickNEarn\\src\\Models\\Models.csproj": {
+              "projectPath": "D:\\ClickNEarn\\ClickNEarn\\src\\Models\\Models.csproj"
             }
           }
         }

@@ -33,3 +33,37 @@ C:\Users\Shaantam Anand\source\repos\ClickNEarn\ClickNEarn.Fixtures\obj\Debug\Cl
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\ClickNEarn.Fixtures\obj\Debug\ClickNEarn.Fixtures.csproj.CoreCompileInputs.cache
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\ClickNEarn.Fixtures\obj\Debug\ClickNEarn.Fixtures.dll
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\ClickNEarn.Fixtures\obj\Debug\ClickNEarn.Fixtures.pdb
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\ClickNEarn.Fixtures.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\ClickNEarn.Fixtures.pdb
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Constants.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Helpers.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Models.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\nunit.framework.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Profiler.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\UserProvider.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\MongoDB.Driver.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\MongoDB.Driver.Core.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\DnsClient.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\System.Buffers.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Constants.pdb
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Helpers.pdb
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Models.pdb
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Profiler.pdb
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\UserProvider.pdb
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\MongoDB.Bson.xml
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\nunit.framework.xml
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\MongoDB.Driver.xml
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\MongoDB.Driver.Core.xml
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\bin\Debug\DnsClient.xml
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\obj\Debug\ClickNEarn.Fixtures.csprojResolveAssemblyReference.cache
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\obj\Debug\ClickNEarn.Fixtures.csproj.CoreCompileInputs.cache
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\obj\Debug\ClickNEarn.Fixtures.dll
+D:\ClickNEarn\ClickNEarn\src\ClickNEarn.Fixtures\obj\Debug\ClickNEarn.Fixtures.pdb

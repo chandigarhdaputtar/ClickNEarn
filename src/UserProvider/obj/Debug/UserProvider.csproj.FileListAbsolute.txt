@@ -20,3 +20,25 @@ C:\Users\Shaantam Anand\source\repos\ClickNEarn\UserProvider\obj\Debug\UserProvi
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\UserProvider\obj\Debug\UserProvider.csproj.CoreCompileInputs.cache
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\UserProvider\obj\Debug\UserProvider.dll
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\UserProvider\obj\Debug\UserProvider.pdb
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\UserProvider.dll
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\UserProvider.pdb
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\DnsClient.dll
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\Models.dll
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\MongoDB.Bson.dll
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\MongoDB.Driver.Core.dll
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\MongoDB.Driver.dll
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\Profiler.dll
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\System.Buffers.dll
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\Constants.dll
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\Models.pdb
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\Profiler.pdb
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\DnsClient.xml
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\MongoDB.Bson.xml
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\MongoDB.Driver.xml
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\MongoDB.Driver.Core.xml
+D:\ClickNEarn\ClickNEarn\src\UserProvider\bin\Debug\Constants.pdb
+D:\ClickNEarn\ClickNEarn\src\UserProvider\obj\Debug\UserProvider.csprojResolveAssemblyReference.cache
+D:\ClickNEarn\ClickNEarn\src\UserProvider\obj\Debug\UserProvider.csproj.CoreCompileInputs.cache
+D:\ClickNEarn\ClickNEarn\src\UserProvider\obj\Debug\UserProvider.dll
+D:\ClickNEarn\ClickNEarn\src\UserProvider\obj\Debug\UserProvider.pdb

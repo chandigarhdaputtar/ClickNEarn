@@ -3,3 +3,9 @@ C:\Users\Shaantam Anand\source\repos\ClickNEarn\SupplierProvider\bin\Debug\Suppl
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\SupplierProvider\obj\Debug\SupplierProvider.csproj.CoreCompileInputs.cache
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\SupplierProvider\obj\Debug\SupplierProvider.dll
 C:\Users\Shaantam Anand\source\repos\ClickNEarn\SupplierProvider\obj\Debug\SupplierProvider.pdb
+D:\ClickNEarn\ClickNEarn\src\SupplierProvider\bin\Debug\SupplierProvider.dll
+D:\ClickNEarn\ClickNEarn\src\SupplierProvider\bin\Debug\SupplierProvider.pdb
+D:\ClickNEarn\ClickNEarn\src\SupplierProvider\obj\Debug\SupplierProvider.csprojResolveAssemblyReference.cache
+D:\ClickNEarn\ClickNEarn\src\SupplierProvider\obj\Debug\SupplierProvider.csproj.CoreCompileInputs.cache
+D:\ClickNEarn\ClickNEarn\src\SupplierProvider\obj\Debug\SupplierProvider.dll
+D:\ClickNEarn\ClickNEarn\src\SupplierProvider\obj\Debug\SupplierProvider.pdb

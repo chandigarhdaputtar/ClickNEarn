@@ -15,7 +15,7 @@ namespace UserProvider
         IMongoCollection<User> userData;
         public UserDAL()
         {
-            MongoClient client = new MongoClient("mongodb://ClickNEarnAccounts:shantam99@cluster0-shard-00-00-fpmgs.mongodb.net:27017,cluster0-shard-00-01-fpmgs.mongodb.net:27017,cluster0-shard-00-02-fpmgs.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin");
+            MongoClient client = new MongoClient("mongodb://shaantam:password@13.127.144.8/admin");
             userData = client.GetDatabase("ClickNEarn").GetCollection<User>("Users");
         }
         public bool AddUser(User user)

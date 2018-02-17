@@ -44,6 +44,7 @@
     <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="MongoDB.Bson, Version=2.5.0.0, Culture=neutral, PublicKeyToken=null" />
     <Reference Include="nunit.framework, Version=3.9.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
       <HintPath>..\packages\NUnit.3.9.0\lib\net45\nunit.framework.dll</HintPath>
     </Reference>
@@ -60,6 +61,10 @@
     <Compile Include="ProfilerFixtures.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Constants\Constants.csproj">
+      <Project>{15C7B7E2-3259-4762-AD4A-F131F26F9F86}</Project>
+      <Name>Constants</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Helpers\Helpers.csproj">
       <Project>{03B86CF1-9676-4A5B-9726-2310F60A692C}</Project>
       <Name>Helpers</Name>
